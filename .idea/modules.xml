@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/../billing-cycle-backend/.idea/billing-cycle-backend.iml" filepath="$PROJECT_DIR$/../billing-cycle-backend/.idea/billing-cycle-backend.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/billing-cycles-frontend.iml" filepath="$PROJECT_DIR$/.idea/billing-cycles-frontend.iml" />
     </modules>
   </component>
